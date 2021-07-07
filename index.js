@@ -4,4 +4,4 @@ let file='';
 if (addParams[2] === 'file' && addParams[3]) {
     file += addParams[3];
 }
-shell.exec(`npx mocha --timeout=90000 ${file}`)
+shell.exec(`npx mocha --timeout=90000 ${file} --reporter allure-mocha`)

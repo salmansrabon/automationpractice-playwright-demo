@@ -2,3 +2,5 @@ node_modules
 package-lock.json
 output
 videos
+allure-report
+allure-results
