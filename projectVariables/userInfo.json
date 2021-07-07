@@ -1,0 +1,14 @@
+{
+    "firstName": "Test",
+    "lastName": "User",
+    "birthDate": {
+        "day": "1",
+        "month": "3",
+        "year": "1990"
+    },
+    "address":"1, Johnson road, Newyork",
+    "city":"Newyork",
+    "state":"New York",
+    "postCode":"10001",
+    "mobilePhone":"16462662535"
+}

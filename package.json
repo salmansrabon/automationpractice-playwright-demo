@@ -1,0 +1,19 @@
+{
+  "name": "automationpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "fs": "0.0.1-security",
+    "mocha": "^8.3.2",
+    "playwright": "^1.10.0",
+    "shelljs": "^0.8.4"
+  }
+}
